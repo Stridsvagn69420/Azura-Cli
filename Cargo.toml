@@ -1,0 +1,10 @@
+[package]
+name = "aqua"
+description = "Command-line music player supporting Cyrkensia music repositories and Discord Rich Presence"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rodio = { version = "0.16", features = ["symphonia-isomp4", "symphonia-aac"] }
