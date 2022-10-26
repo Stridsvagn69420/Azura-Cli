@@ -3,6 +3,9 @@ name = "azura-cli"
 description = "Command-line music player supporting Cyrkensia music repositories and Discord Rich Presence"
 version = "0.1.0"
 edition = "2021"
+license = "EUPL-1.2"
+repository = "https://github.com/Stridsvagn69420/Azura-Cli"
+homepage = "https://github.com/Stridsvagn69420/Azura-Cli"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
