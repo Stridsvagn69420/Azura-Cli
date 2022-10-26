@@ -1,5 +1,5 @@
 [package]
-name = "aqua"
+name = "azura-cli"
 description = "Command-line music player supporting Cyrkensia music repositories and Discord Rich Presence"
 version = "0.1.0"
 edition = "2021"
